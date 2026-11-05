@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
 __pycache__/
 *.py[codz]
 *$py.class
@@ -218,3 +219,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local project reference materials
+/RELIABLE_GATEWAY_SPEC_FINAL_PYTHON.md
+/*LEARNING_GUIDE*
+/*learning-guide*
+/*learning_guide*
